@@ -71,3 +71,19 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tmtam61&theme=radical&no-frame=true&row=1&column=6" />
 </p>
+
+---
+---
+
+### ⛅️ Today's Weather in Hanoi
+
+<p align="center">
+  <img src="https://github.com/tmtam61/tmtam61/blob/output/weather.svg" alt="weather today" />
+</p>
+
+
+### 🐍 GitHub Activity Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tmtam61/tmtam61/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
