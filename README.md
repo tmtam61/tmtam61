@@ -24,6 +24,9 @@
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  </a>
 
   <br/>
 
@@ -52,9 +55,7 @@
 
 ### 🔥 GitHub Streak:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tmtam61&theme=radical" alt="tmtam61 streak" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tr%C3%ACnh%20Minh%20T%C3%A2m&theme=dark&hide_border=true&border_radius=4&short_numbers=true" alt="GitHub Streak" /></a>
 
 ---
 
