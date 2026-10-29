@@ -1,8 +1,8 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Freak</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm TMT</h1>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Freak644">
-    <img src="https://komarev.com/ghpvc/?username=Freak644&label=Profile%20views&color=00FFFF&style=flat-square" alt="Freak644's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=tmtam61">
+    <img src="https://komarev.com/ghpvc/?username=tmtam61&label=Profile%20views&color=00FFFF&style=flat-square" alt="tmtam61's profile views" />
   </a>
 </p>
 <p align="center">
@@ -25,16 +25,16 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/Freak644">
-    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Freak644&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="Freak644's GitHub Stats" />
+  <a href="https://github.com/tmtam61">
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tmtam61&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="tmtam61's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=Freak644&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Freak644's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=tmtam61&theme=github_dark&hide_border=true&cache_seconds=86400" alt="tmtam61's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Freak644&theme=cobalt&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="loser644's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=tmtam61&theme=cobalt&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="loser644's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Freak644&theme=nightowl&radius=10" alt="Freak644's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=tmtam61&theme=nightowl&radius=10" alt="tmtam61's Activity Graph" />
 </p>
 
 
@@ -60,11 +60,11 @@
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freak644&layout=compact&theme=merko&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmtam61&layout=compact&theme=merko&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ## 🔗 Connect with Me
-<p align="left"> <a href="mailto:hoodafreak@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Freak's Email"/></a></p>
+<p align="left"> <a href="mailto:hoodaTMT@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="TMT's Email"/></a></p>
 
 ## 💬 Quote
 > जो बात का निः वो जाट का निः✊;
