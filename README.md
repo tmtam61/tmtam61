@@ -64,7 +64,7 @@
 </p>
 
 ## 🔗 Connect with Me
-<p align="left"> <a href="mailto:hoodaTMT@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="TMT's Email"/></a></p>
+<p align="left"> <a href="mailto:tmtam06011997@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="TMT's Email"/></a></p>
 
 ## 💬 Quote
 > जो बात का निः वो जाट का निः✊;
